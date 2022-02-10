@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ClassObjectCodes.iml" filepath="$PROJECT_DIR$/ClassObjectCodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassObjectAndInheritanceCodes.iml" filepath="$PROJECT_DIR$/ClassObjectAndInheritanceCodes.iml" />
     </modules>
   </component>
 </project>
